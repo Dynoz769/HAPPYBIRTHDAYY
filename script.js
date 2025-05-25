@@ -202,8 +202,8 @@ const videoSources = {
     5: "V5.MOV",
     6: "V6.MOV",
     7: "V7.MOV",
-    8: "V7.MOV",
-    9: "V5.MP4",
+    8: "V8.MOV",
+    9: "V9.MP4",
     10: "V3.MOV",
     11: "V5.MOV",
     12: "V7.MOV"
